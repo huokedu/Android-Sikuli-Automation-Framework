@@ -1,0 +1,1 @@
+java -jar "C:\Auto\Local\android-sikuli-framework-v2\out\artifacts\Android_Sikuli_Framework_v2_jar\Android Sikuli Framework v2.jar"
